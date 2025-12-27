@@ -186,6 +186,3 @@
   <br>
   <sup><em>让每一次生图创作都成为一场流畅而愉悦的旅程。</em></sup>
   <br><br>
-  <!-- 趣味GitHub小游戏：贪吃蛇动画[citation:9] -->
-  ![GitHub Snake Game](https://raw.githubusercontent.com/xVirtualx/xVirtualx/output/github-contribution-grid-snake.svg)
-</div>
