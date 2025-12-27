@@ -1,5 +1,7 @@
 <h1 align="center">WeiLin-Comfyui-Tags</h1>
 <p align="center">WeiLin-Comfyui-Tools的tag第三方魔改版</p>
+本项目是基于[WeiLin-Comfyui-Tools](https://github.com/weilin9999/WeiLin-Comfyui-Tools) 生态体系开发的扩展工具
+
 
 ## 📌 项目简介
 - **这是什么**：WeiLin-Comfyui-Tags 是「WeiLin-Comfyui-Tools」的专属配套标签资源优化项目，基于原工具的 Tag 体系进行逻辑重构、分类升级与内容扩容，为 ComfyUI 生图创作提供更优质的标签支持。
