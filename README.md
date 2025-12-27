@@ -180,8 +180,6 @@
 <!-- 页脚签名区 -->
 <div align="center">
   <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FxVirtualx%2FWeiLin-Comfyui-Tags&label=今日访客&countColor=%234ECDC4&style=flat" alt="访客统计" />
-  <br><br>
   <sub><strong>优化标签，释放创意无限可能。</strong></sub>
   <br>
   <sup><em>让每一次生图创作都成为一场流畅而愉悦的旅程。</em></sup>
