@@ -9,3 +9,4 @@ WeiLin-Comfyui-Tools的tag第三方魔改版
 | V1.2 | userdatas_zh_CN_tags - 改版V1.2 | 08.04.2025 |
 | V1.3 | userdatas_zh_CN_tags - 改版V1.3 | 08.05.2025 |
 | V1.3.1 | userdatas_zh_CN_tags - 改版V1.3.1 | 11.16.2025 |
+| V1.4 | userdatas_zh_CN_tags - 改版V1.4 | 11.16.2025 |
