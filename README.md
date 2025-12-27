@@ -29,21 +29,21 @@ WeiLin-Comfyui-Tags 是基于 **WeiLin-Comfyui-Tools** 生态体系的标签资�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.icons8.com/color/24/000000/group-of-objects.png"/> 智能分类重构</h4>
+      <h4><img src="https://img.icons8.com/fluent/24/group-objects.png"/> 智能分类重构</h4>
       <p>按照<strong>人物→服饰→动作→环境</strong>的创作流程重新组织标签结构，逻辑清晰，查找效率提升显著。</p>
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.icons8.com/color/24/000000/data-in-both-directions.png"/> 内容深度扩容</h4>
+      <h4><img src="https://img.icons8.com/fluency/24/data-in-both-directions.png"/> 内容深度扩容</h4>
       <p>新增<strong>200+</strong>精细化标签，覆盖风格化服饰、人物微表情、动态动作、场景氛围等核心维度。</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4><img src="https://img.icons8.com/color/24/000000/connected.png"/> 无缝集成体验</h4>
+      <h4><img src="https://img.icons8.com/fluency/24/connected.png"/> 无缝集成体验</h4>
       <p>完美适配原工具的<strong>一键抽卡模式</strong>和编辑功能，操作无割裂感，即装即用。</p>
     </td>
     <td valign="top">
-      <h4><img src="https://img.icons8.com/color/24/000000/merge-git.png"/> 持续迭代优化</h4>
+      <h4><img src="https://img.icons8.com/fluency/24/merge-git.png"/> 持续迭代优化</h4>
       <p>基于社区反馈持续更新，不断优化标签体系，满足多样化创作需求。</p>
     </td>
   </tr>
